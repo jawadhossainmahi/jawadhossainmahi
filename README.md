@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, My name is Jawad Hossain Mahi</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jawad+Hossain+Mahi!;" />
+</h1>
 <h3 align="center">Embarking on a Programming Odyssey: Jawad Hossain Mahi, Ever-Eager Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jawadhossainmahi&label=Profile%20views&color=0e75b6&style=flat" alt="jawadhossainmahi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jawadhossainmahi&label=Profile%20views&color=0e75b6&style=flat" alt="jawadhossainmahi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jawadhossainmahi" alt="jawadhossainmahi" /></a> </p>
 
@@ -27,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jawadhossainmahi&show_icons=true&locale=en&layout=compact" alt="jawadhossainmahi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jawadhossainmahi&show_icons=true&locale=en" alt="jawadhossainmahi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jawadhossainmahi&show_icons=true&locale=en" alt="jawadhossainmahi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jawadhossainmahi&" alt="jawadhossainmahi" /></p>
