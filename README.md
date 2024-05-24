@@ -1,43 +1,32 @@
-Sure, here's a simple text-based README for your GitHub profile:
+<h1 align="center">Hi 👋, My name is Jawad Hossain Mahi</h1>
+<h3 align="center">Embarking on a Programming Odyssey: Jawad Hossain Mahi, Ever-Eager Learner</h3>
 
-```
-# Jawad Hossain Mahi's Profile
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jawadhossainmahi&label=Profile%20views&color=0e75b6&style=flat" alt="jawadhossainmahi" /> </p>
 
-Welcome to my GitHub profile! Here's a brief overview:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jawadhossainmahi" alt="jawadhossainmahi" /></a> </p>
 
-## About Me
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-I'm Jawad Hossain Mahi, a freelance web developer with expertise in various technologies.
+- 👨‍💻 All of my projects are available at [markajutalimissunnah.com https://webshinez.com/](markajutalimissunnah.com https://webshinez.com/)
 
-## Skills
+- 💬 Ask me about **html css javascript php react js laravel codeigniter node js express js**
 
-- HTML
-- CSS (including Tailwind CSS and Bootstrap)
-- JavaScript (including jQuery)
-- PHP
-- Node.js
-- React.js
-- Laravel
-- CodeIgniter
+- 📫 How to reach me **jawadhossainmahi@gmail.com**
 
-## Portfolio
+- ⚡ Fun fact **I sit in my desk to solve bug end up creating a landing page.**
 
-- [Webshinez.com](https://webshinez.com/) - React.js frontend, Express.js backend
-- [Markajutalimissunnah.com](https://markajutalimissunnah.com/) - React.js frontend, Laravel backend
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jawadhossainmahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jawadhossainmahi" height="30" width="40" /></a>
+<a href="https://fb.com/jawadhossainmahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jawadhossainmahi" height="30" width="40" /></a>
+<a href="https://instagram.com/jawadhossainmahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jawadhossainmahi" height="30" width="40" /></a>
+</p>
 
-## Social Media Profiles
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-- LinkedIn: [Jawad Hossain Mahi](https://www.linkedin.com/in/jawadhossainmahi/)
-- Instagram: [@jawadhossainmahi](https://www.instagram.com/jawadhossainmahi)
-- Facebook: [Jawad Hossain Mahi](https://www.facebook.com/jawadhossainmahi)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jawadhossainmahi&show_icons=true&locale=en&layout=compact" alt="jawadhossainmahi" /></p>
 
-## Freelancer Profiles
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jawadhossainmahi&show_icons=true&locale=en" alt="jawadhossainmahi" /></p>
 
-- Fiverr: [jawad_mahi2022](https://www.fiverr.com/jawad_mahi2022)
-- Upwork: [Jawad Hossain Mahi](https://www.upwork.com/freelancers/~01e125cb6a9b8096ea?s=1110580755107926016)
-- Freelancer.com: [jawadhossainmahi](https://www.freelancer.com.bd/u/jawadhossainmahi?sb=t)
-
-Feel free to reach out for collaborations or inquiries!
-```
-
-This text-based README provides a clear overview of your profile, skills, portfolio, and social media/freelancer profiles. You can directly copy and paste this into your GitHub README.md file.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jawadhossainmahi&" alt="jawadhossainmahi" /></p>
