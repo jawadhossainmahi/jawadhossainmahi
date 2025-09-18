@@ -30,7 +30,4 @@
 
 
 
-<p><img align="left"  style='border:0;height:7rem;'   src="https://github-readme-stats.vercel.app/api/top-langs?username=jawadhossainmahi&show_icons=true&locale=en&layout=compact" alt="jawadhossainmahi" /></p>
-<p><img align="left"  style='border:0;height:7rem;' src="https://github-readme-streak-stats.herokuapp.com/?user=jawadhossainmahi&" alt="jawadhossainmahi" /></p>
-<p>&nbsp;<img align="left" style='border:0;height:7rem;'  src="https://github-readme-stats.vercel.app/api?username=jawadhossainmahi&show_icons=true&locale=en" alt="jawadhossainmahi" /></p>
 
