@@ -1,33 +1,155 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jawadhossainmahi&label=Profile%20views&color=0e75b6&style=flat" alt="jawadhossainmahi" /> </p>
+<div align="center">
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jawad+Hossain+Mahi!;" />
-</h1>
-<h3 align="center">Embarking on a Programming Odyssey: Jawad Hossain Mahi, Ever-Eager Learner</h3>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jawad%20Hossain%20Mahi&fontSize=50&fontColor=00d4ff&fontAlignY=38&desc=CSE%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=a0c4ff&animation=fadeIn" />
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jawadhossainmahi" alt="jawadhossainmahi" /></a> </p>
+<br/>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+</div>
 
-- 👨‍💻 All of my projects are available at [markajutalimissunnah.com https://webshinez.com/](markajutalimissunnah.com https://webshinez.com/)
+---
 
-- 💬 Ask me about **html css javascript php react js laravel codeigniter node js express js**
+## 🎓 About Me
 
-- 📫 How to reach me **jawadhossainmahi@gmail.com**
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
 
-- ⚡ Fun fact **I sit in my desk to solve bug end up creating a landing page.**
+class Developer {
+public:
+    string name        = "Jawad Hossain Mahi";
+    string degree      = "B.Sc. in Computer Science & Engineering (CSE)";
+    string location    = "Narayanganj, Dhaka, Bangladesh 🇧🇩";
+    string role        = "Full Stack Web Developer";
+    string status      = "Currently Studying CSE 📚";
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/jawadhossainmahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jawadhossainmahi" height="30" width="40" /></a>
-<a href="https://fb.com/jawadhossainmahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jawadhossainmahi" height="30" width="40" /></a>
-<a href="https://instagram.com/jawadhossainmahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jawadhossainmahi" height="30" width="40" /></a>
-</p>
+    vector<string> currentlyLearning = {
+        "Advanced React Patterns",
+        "System Design",
+        "Cloud & DevOps"
+    };
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+    string motto = "Code. Learn. Build. Repeat. 🚀";
+};
 
+int main() {
+    Developer jawad;
+    cout << "Hello World! I'm " << jawad.name << endl;
+    cout << jawad.motto << endl;
+    return 0;
+}
+```
 
+- 🎓 Studying **Computer Science & Engineering (CSE)**
+- 💻 Passionate **Full Stack Web Developer** crafting clean, scalable web apps
+- 🌱 Currently deepening skills in **System Design, Cloud & DevOps**
+- 🤝 Open to **collaborations, open-source contributions & freelance work**
+- 📍 Based in **Narayanganj, Dhaka, Bangladesh**
+- ⚡ Fun fact: I debug with `console.log` and I'm not ashamed 😄
 
+---
 
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🗄️ Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jawadhossainmahi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4ff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawadhossainmahi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0c4ff"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jawadhossainmahi&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ffd700&currStreakLabel=00d4ff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jawadhossainmahi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![ai-assisted-blog](https://github-readme-stats.vercel.app/api/pin/?username=jawadhossainmahi&repo=ai-assisted-blog&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4ff)](https://github.com/jawadhossainmahi/ai-assisted-blog)
+[![laravel-chat-system](https://github-readme-stats.vercel.app/api/pin/?username=jawadhossainmahi&repo=laravel-chat-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4ff)](https://github.com/jawadhossainmahi/laravel-chat-system)
+
+[![Omr-Sheet-Generate](https://github-readme-stats.vercel.app/api/pin/?username=jawadhossainmahi&repo=Omr-Sheet-Generate&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4ff)](https://github.com/jawadhossainmahi/Omr-Sheet-Generate)
+[![flutter-fastapi-basic-crud](https://github-readme-stats.vercel.app/api/pin/?username=jawadhossainmahi&repo=flutter-fastapi-basic-crud&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4ff)](https://github.com/jawadhossainmahi/flutter-fastapi-basic-crud)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Jawad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jawadhossainmahi&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffd700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jawadhossainmahi/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jawadhossainmahi/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jawadhossainmahi)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jawadhossainmahi)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=00d4ff&fontAlignY=65&animation=fadeIn"/>
+
+**💡 "First, solve the problem. Then, write the code." — John Johnson**
+
+</div>
