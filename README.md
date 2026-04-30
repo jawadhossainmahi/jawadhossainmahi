@@ -106,32 +106,6 @@ int main() {
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![ai-assisted-blog](https://github-readme-stats.vercel.app/api/pin/?username=jawadhossainmahi&repo=ai-assisted-blog&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4ff)](https://github.com/jawadhossainmahi/ai-assisted-blog)
-[![laravel-chat-system](https://github-readme-stats.vercel.app/api/pin/?username=jawadhossainmahi&repo=laravel-chat-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4ff)](https://github.com/jawadhossainmahi/laravel-chat-system)
-
-[![Omr-Sheet-Generate](https://github-readme-stats.vercel.app/api/pin/?username=jawadhossainmahi&repo=Omr-Sheet-Generate&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4ff)](https://github.com/jawadhossainmahi/Omr-Sheet-Generate)
-[![flutter-fastapi-basic-crud](https://github-readme-stats.vercel.app/api/pin/?username=jawadhossainmahi&repo=flutter-fastapi-basic-crud&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4ff)](https://github.com/jawadhossainmahi/flutter-fastapi-basic-crud)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Jawad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jawadhossainmahi&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffd700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
